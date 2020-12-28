@@ -1,0 +1,44 @@
+img {
+  transform: translate(-15%);
+}
+
+body {
+  font-family: Helvetica;
+  padding: 7%;
+}
+
+h1 {
+  font-size: 100px;
+  color: khaki;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+header {
+  text-align: center;
+  background-image: url(./Img/pattern.webp);
+}
+
+.green {
+  background-color: mediumspringgreen;
+}
+
+strong {
+  color: blue;
+  font-weight: bold;
+}
+
+.orange {
+  background-color: lightcoral;
+}
+
+.blue {
+  background-color: skyblue;
+}
